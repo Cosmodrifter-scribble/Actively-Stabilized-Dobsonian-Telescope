@@ -1,0 +1,41 @@
+
+PCB - 2500
+Primary mirror - 13000 [https://www.tejraj.com/product/gso-8-f5-parabolic-mirror]
+sec. mirror - 5500 [https://www.tejraj.com/product/50mm-secondary-mirror]
+ESP32 s3 - 1500 [https://www.electropi.in/espressif-esp32-s3-devkitc-1-n8r8-development-board?gad_source=1&gad_campaignid=23329895947&gbraid=0AAAAA-s6SdWYshFRChxyhLHDVYIkt0RQJ&gclid=CjwKCAjwvqjOBhAGEiwAngeQnYEqXR1Xe6HB9rZeNTQbtW9Wlc7LVE1yn1Vk7cln88riMjOQfToJaRoCaqUQAvD_BwE]
+2 X nema 17 motor - 700*2 [https://robu.in/product/nema17-4-2-kgcm-stepper-motor/]
+2 X tmc 2209 - 400*2 [https://www.electropi.in/tmc2209-stepper-motor-driver-module?gad_source=1&gad_campaignid=23329895947&gbraid=0AAAAA-s6SdWYshFRChxyhLHDVYIkt0RQJ&gclid=CjwKCAjwvqjOBhAGEiwAngeQnQncPX54vcW3Ik9pp0v3LvpVVh8NjXCumTVwgm5LLP2zNvp5c3UkZhoCpf0QAvD_BwE]
+2 X encoders 1000ppr - 1850*2 [https://www.amazon.in/Techtonics-2-Phase-Incremental-Optical-Quadrature/dp/B0DCK8HMHN/ref=asc_df_B0DCK8HMHN?mcid=660e767478d53beb9320463d07a71c83&tag=googleshopdes-21&linkCode=df0&hvadid=709858762962&hvpos=&hvnetw=g&hvrand=4769881691521946824&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9183494&hvtargid=pla-2429723368680&psc=1&hvocijid=4769881691521946824-B0DCK8HMHN-&hvexpln=0&gad_source=1
+lmc 2596 - 45 [https://robu.in/product/lm2596s-dc-dc-buck-converter-power-supply/]
+imu 9650 - 350 [https://www.electropi.in/mpu9250-9-axis-gyro-accelerometer-module?gad_source=1&gad_campaignid=23329895947&gbraid=0AAAAA-s6SdWYshFRChxyhLHDVYIkt0RQJ&gclid=CjwKCAjwvqjOBhAGEiwAngeQnUhBscTy1Y2kV58y84S_jigzfLi2qpPbkjustYRcBSTC7Vvo_LqlbxoCzUAQAvD_BwE]
+gps m8n - 900 [https://www.electropi.in/neo-m8n-gps-module-with-ceramic-active-antenna?gad_source=1&gad_campaignid=23329895947&gbraid=0AAAAA-s6SdWYshFRChxyhLHDVYIkt0RQJ&gclid=CjwKCAjwvqjOBhAGEiwAngeQnYzWOIJwDYW-q0pAGaqMdpQ9CaGYIPzYTxc2WPnt1QksJPmc5JdzDhoC1R8QAvD_BwE]
+1.3 inch olead display - 350 [https://www.electropi.in/1.3-inch-128x64-oled-display-screen-module-with-spi-serial-interface-v2?gad_source=1&gad_campaignid=23329895947&gbraid=0AAAAA-s6SdWYshFRChxyhLHDVYIkt0RQJ&gclid=CjwKCAjwvqjOBhAGEiwAngeQnb940kONnGwQebkpnUIBvXclCovfu46W0GyI5fuqzkbaMDTbm677YRoCHm8QAvD_BwE]
+Rotating Lazy Susan - 650 [https://www.amazon.in/BOSCO-Swivel-Turntable-Rotating-Furniture/dp/B0GSGZFKGD?th=1]
+32mm plossl eye piece - 3350 [https://www.tejraj.com/product/32mm-plossl-eyepiece-125]
+plywood - 1000 [from local]
+plywod cutting - 1000[from local]
+aluminium tubes - 2500 [from local]
+3d printing - 10000 [from online]
+
+3xm3 in sec cell
+6xm5 in pri cell
+2xm3 in small Pulley 
+2xm4 big Pulley 
+6xm6 tube ring
+4xm3 in tube to fix pri cell
+6 encoder resistor 4.7k
+3 Led resistor 330
+2 tmc resistor 10k
+1 27k resistor
+2 capacitor 100uf
+Wirings
+2x jst connector 4 pin motor 
+2x jst connector 5 pin encoder
+1x jst connector 4 pin display
+1x jst connector 10pin imu
+1x jst connector 5 pin gps
+2x pinheader for toggle switch 
+1x female pinheader for d-pad
+2x bearing with inner diameter 26mm
+
+and focuser items [from local]
