@@ -224,9 +224,32 @@ Gerber files ready for JLCPCB or PCBWay in `PCB/gerbers/pcb_com.zip`.
 
 ---
 
+## Some Pic 
+
+<img width="1366" height="768" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/771aa57c-9597-4973-8cef-a4f18cf81e2d" />
+<img width="1366" height="768" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/e3895957-6f75-447b-af4f-90dfd571d086" />
+<img width="1366" height="768" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/097795c6-3ed9-4f8c-820e-c3b51882628f" />
+<img width="1366" height="768" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/b61bcb87-119a-4d9f-b46a-b847cd0b9472" />
+<img width="1366" height="768" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/37ba76e6-86c3-4e19-8897-859fb1bafdf7" />
+<img width="1366" height="768" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/f5301744-2b80-4744-89ed-8ce57f52b618" />
+<img width="1366" height="768" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/8aa45c78-a365-4c10-8717-8f79d5b7ffc1" />
+<img width="1366" height="768" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/684029d0-83c8-4970-8f0b-8175fb858d5b" />
+<img width="1366" height="768" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/d704a59b-ce2a-4149-9fbc-89dd4fe5b1ce" />
+<img width="1366" height="768" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/b5d06aca-fe82-4922-8fce-56c20bce4997" />
+<img width="1366" height="768" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/45524340-e2dc-4e2f-b646-5d197583c3bc" />
+<img width="1366" height="768" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/5a4fd256-ea49-4c7d-8bc0-f5a90c2ec326" />
+<img width="1366" height="768" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/d4aecaa3-bce9-4b8d-b4de-8d11a063df9e" />
+<img width="1366" height="768" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/9860db77-5bf3-419b-9444-9a482b1de0bf" />
+
+---
+
 ## Bill of Materials
 
+<img width="1366" height="768" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/cecfb011-a0cd-4467-8548-4fcd2653ad71" />
 | # | Component | Qty | Unit (₹) | Total (₹) | Source |
+<img width="1366" height="768" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/5d5d738e-9841-4064-908a-cace125e0651" />
+<img width="1366" height="768" alt="Screenshot (111) - Copy" src="https://github.com/user-attachments/assets/3ba5002d-acb9-4fc0-92d4-778046bfef8e" />
+<img width="1366" height="768" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/12ae13fc-6fba-4ff2-83de-4f027bb0b4e7" />
 |---|---|---|---|---|---|
 | 1 | [GSO 8" f/5 primary mirror](https://www.tejraj.com/product/gso-8-f5-parabolic-mirror) | 1 | ₹13,000 | ₹13,000 | Tejraj & Co. |
 | 2 | [GSO 50mm secondary mirror](https://www.tejraj.com/product/50mm-secondary-mirror) | 1 | ₹5,500 | ₹5,500 | Tejraj & Co. |
