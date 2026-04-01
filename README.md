@@ -245,11 +245,7 @@ Gerber files ready for JLCPCB or PCBWay in `PCB/gerbers/pcb_com.zip`.
 
 ## Bill of Materials
 
-<img width="1366" height="768" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/cecfb011-a0cd-4467-8548-4fcd2653ad71" />
 | # | Component | Qty | Unit (₹) | Total (₹) | Source |
-<img width="1366" height="768" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/5d5d738e-9841-4064-908a-cace125e0651" />
-<img width="1366" height="768" alt="Screenshot (111) - Copy" src="https://github.com/user-attachments/assets/3ba5002d-acb9-4fc0-92d4-778046bfef8e" />
-<img width="1366" height="768" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/12ae13fc-6fba-4ff2-83de-4f027bb0b4e7" />
 |---|---|---|---|---|---|
 | 1 | [GSO 8" f/5 primary mirror](https://www.tejraj.com/product/gso-8-f5-parabolic-mirror) | 1 | ₹13,000 | ₹13,000 | Tejraj & Co. |
 | 2 | [GSO 50mm secondary mirror](https://www.tejraj.com/product/50mm-secondary-mirror) | 1 | ₹5,500 | ₹5,500 | Tejraj & Co. |
